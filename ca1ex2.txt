@@ -1,0 +1,6 @@
+git add 
+git commit -m "" 
+git switch -c "new branch name" 
+git merge feature-local-test 
+git remote add origin https://github.com/X00220440/ca1ex2-repo.git 
+git pull 
